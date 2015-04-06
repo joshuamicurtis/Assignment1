@@ -29,3 +29,5 @@ I have experience with C++ from CS 161 and CS 162. I have experience with
 for friends and some organizations I’ve been involved with. I have 
 experience with MASM from CS 271.
 
+I was born on mars. My parents are Wizards. After a brief minor league 
+baseball career I became a wizard.
