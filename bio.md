@@ -11,7 +11,9 @@ to take a road trip at the end of summer term to bring my truck from
 Portland to Pittsburgh.
 
 I would eventually like to move back to the west coast, or at least 
-somewhere warmer than the midwest or northeast.
+somewhere warmer than the midwest or northeast. Places not on the west 
+coast I could see living would be Austin, Colorado, New Mexico, or 
+Arizona. 
 
 Programming Background
 
